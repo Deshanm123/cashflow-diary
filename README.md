@@ -1,1 +1,1 @@
-# cashflow--diary
+# cashflow-diary
